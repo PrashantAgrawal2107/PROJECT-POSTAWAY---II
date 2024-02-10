@@ -1,0 +1,53 @@
+Hii , I have implemented total these APIs....
+
+
+1. Siginup API
+2. Siginin API
+3. Logout from current device
+4. Logout from all devices
+5. Get user details
+6. Get all users details
+7. Update user details
+
+8. Get all posts
+9. Get one post
+10. Get user's posts
+11. Create a post
+12. Delete a post
+13. Update a post
+14. Write comment
+
+15. Get comments
+16. Delete comment
+17. Update comments
+
+18. Get likes
+19. Toggle like status
+
+20. Get Friends
+21. Get pending friendrequests
+22. Toggle friendship
+23. Accept/reject friendrequests
+
+24. Send OTP
+25. Verify OTP
+26. Reset-password
+
+
+
+....APIs 3-23 are secured with "JWT AUTHENTICATION"
+
+All the functions are done on MongoDB .
+MongoDB is connected using both MongoDB and Mongoose.
+
+All the schemas needed are created and all the operations are done on Database postway.
+Errors handling is done....all the application errors will be logged in errors.txt
+
+
+
+....You can go through all the APIs using "localhost:3000/api-docs"
+This is the simple and clear documention provided using Swagger UI.
+
+ThankYou,
+
+PRASHANT AGRAWAL

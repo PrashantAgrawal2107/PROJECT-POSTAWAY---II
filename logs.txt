@@ -1,0 +1,150 @@
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup - {}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup - {}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Prashant\",\"email\":\"pk@gmail.com\",\"password\":\"12345\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Prashant\",\"email\":\"pk@gmail.com\",\"password\":\"12345\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {\"caption\":\"I am flying buddy\",\"imageUrl\":\"www.imageurl.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {\"caption\":\"I am flying buddy\",\"imageUrl\":\"www.imageurl.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/788 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/5 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/4 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/3 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"content\":\"Wow\"}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/67 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comm - {}","service":"request-logging"}
+{"level":"info","message":"/api - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"Prashant\",\"email\":\"pk@gmail.com\",\"password\":\"12345\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/ - {\"content\":\"Wow\",\"imageUrl\":\"h.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"pk\",\"email\":\"pk@g.com\",\"password\":\"12345\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {\"content\":\"YOU are lull\",\"imageUrl\":\".jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comment/5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/toggle/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/like/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/all - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {\"content\":\"string\",\"imageUrl\":\"string.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts - {}","service":"request-logging"}
+{"level":"info","message":"/api/posts/2 - {\"content\":\"string\",\"imageUrl\":\"string\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/5 - {\"content\":\"string\",\"imageUrl\":\"string\"}","service":"request-logging"}
+{"level":"info","message":"/api/posts/3 - {\"content\":\"string\",\"imageUrl\":\"string\"}","service":"request-logging"}
+{"level":"info","message":"/api/comment/1 - {\"password\":\"string\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:33:01 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Gaurav Tripathi\",\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:33:24 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Gaurav Tripathi\",\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:34:28 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Gaurav Tripathi\",\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:34:58 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Cod@1212\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:35:10 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:44:13 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 14:44:19 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:01:57 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Gaurav Tripathi\",\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:02:28 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Gaurav Tripathi\",\"email\":\"gaur.tripathi1010@codingninjas.com\",\"password\":\"Code@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:02:34 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:03:21 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaur.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:04:56 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaur.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:04:57 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"gaur.tripathi1010@codingninjas.com\",\"password\":\"Code@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:17:06 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Prashant Agrawal\",\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"Prince@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 15:17:40 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"Prince@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 16:20:25 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"Prince@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 16:20:41 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"123@pqr\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 17:21:43 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"123@pqr\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 17:34:02 GMT+0530 (India Standard Time) req URL: /api/users/signup - {\"name\":\"Lakshya Agrawal\",\"email\":\"lakshyaagrawal2107@gmail.com\",\"password\":\"Lakshya@123\",\"gender\":\"Male\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 17:34:27 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"lakshyaagrawal2107@gmail.com\",\"password\":\"Lak@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 17:34:38 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"lakshyaagrawal2107@gmail.com\",\"password\":\"Lakshya@123\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 18:16:22 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"123@pqr\"}","service":"request-logging"}
+{"level":"info","message":"TimeStamp: Sat Feb 10 2024 19:17:08 GMT+0530 (India Standard Time) req URL: /api/users/signin - {\"email\":\"prashantagrawal2107@gmail.com\",\"password\":\"123@pqr\"}","service":"request-logging"}

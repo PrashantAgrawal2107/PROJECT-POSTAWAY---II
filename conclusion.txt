@@ -1,0 +1,19 @@
+OTP Functions -- ALL functions working 100% Perfectly...Ek dum ghazab
+
+User Functions -- Problem in logout device API, all others working Fine.
+
+Post Functions -- All functions working perfectly...Ek dum mast
+
+Comment Functions -- All functions working perfectly...Ek dum jhakaas
+
+Like Functions -- All functions working perfectly fine...ghazab
+
+Friends Function -- All functions are working fine but no friends added...as no API to add friends...but operations are working fine.
+
+.............>>>>>>>>>>>>>>.....
+
+ALL FEATURES ARE WORKING GOOD....Errors are logging perfectly in 'errors.txt' file.
+
+............>>>>>>>>>......
+
+ALL THINGS ARE DONE.
